@@ -3,6 +3,8 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/yaoyao-liu/mnemonics/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/python-3.6-blue.svg?style=flat-square)](https://www.python.org/)
 
+### Papers
+
 - Meta-Aggregating Networks for Class-Incremental Learning,
 arXiv 2020. \[[PDF](https://arxiv.org/pdf/2010.05063.pdf)\]
 
