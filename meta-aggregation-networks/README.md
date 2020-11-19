@@ -43,12 +43,6 @@ Install other requirements:
 pip install tqdm tensorboardX Pillow==6.2.2
 ```
 
-Clone this repository:
-
-```bash
-git clone https://github.com/yaoyao-liu/class-incremental-learning.git 
-```
-
 ### Running Experiments
 
 CIFAR-100 (basline: iCaRL, Rebuffi et al., 2017)
