@@ -17,9 +17,7 @@ Please cite our paper if it is helpful to your work:
 
 ```bibtex
 @article{Liu2020MANets
-  author    = {Liu, Yaoyao and
-               Schiele, Bernt and
-               Sun, Qianru},
+  author    = {Liu, Yaoyao an Schiele, Bernt and Sun, Qianru},
   title     = {Meta-Aggregating Networks for Class-Incremental Learning},
   journal   = {arXiv},
   volume    = {2010.05063},
