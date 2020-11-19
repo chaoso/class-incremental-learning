@@ -13,13 +13,6 @@ See the versions for the requirements [here](https://yyliu.net/files/mnemonics_p
 
 ## Running Experiments
 
-
-### Clone this repository
-
-```bash
-git clone git@github.com:yaoyao-liu/mnemonics-training.git
-```
-
 ### Running experiments for baselines
 
 ```bash
